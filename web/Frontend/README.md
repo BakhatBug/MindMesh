@@ -1,7 +1,7 @@
 
   # Home Page Design for MindMesh
 
-  This is a code bundle for Home Page Design for MindMesh.
+  This is a code for Home Page Design for MindMesh.
 
   ## Running the code
 
